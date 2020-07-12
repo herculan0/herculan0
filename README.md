@@ -7,7 +7,4 @@
 - 📫 How to reach me: 
 - [Twitter](https://twitter.com/hercula_no/)
 - [Linkedin](https://linkedin.com/in/lucasgherculano)
-<--
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
