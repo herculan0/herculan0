@@ -3,10 +3,10 @@
 <a href="https://www.linkedin.com/in/lucasgherculano/" target="_blank"><img src="https://img.shields.io/badge/-lucasgherculano-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="mailto:lucasgherculano@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-lucasgherculano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
 
-I'm **Lucas**, a Senior DevOps Engineer from 🇧🇷 Belo Horizonte, working at the intersection of automation, infrastructure, and developer experience.
+I'm **Lucas**, a Senior DevOps Engineer from 🇧🇷 Belo Horizonte, currently living in The Netherlands 🇳🇱 working at the intersection of automation, infrastructure, and developer experience.
 
 ### 🚀 What I’m working on
-- Building robust, cost-optimized infrastructure on **AWS**, primarily with **ECS (EC2)**.
+- Building robust, cost-optimized infrastructure on **AWS**.
 - Crafting CI/CD pipelines with **CircleCI**, exploring **GitHub Actions**, and making deployments safer with **blue/green** and **canary** strategies.
 - Defining infrastructure with **Terraform** and modernizing legacy **CDK** codebases.
 - Planning a Terraform-powered multi-account AWS architecture migration.
